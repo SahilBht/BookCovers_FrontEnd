@@ -1,0 +1,35 @@
+#book-details {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  #book-cover {
+    width: auto;
+    height: 600px;
+    margin-bottom: 10px;
+  }
+  
+  .book-info {
+    margin-bottom: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    font-weight: 500;
+  }
+  
+  .navigation {
+    margin-top: 20px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 32px;
+    background-color: #6d38df;
+    color: white;
+    border: 1em;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
